@@ -9,7 +9,7 @@ function App() {
     <>
       <h1>Vite + React + Eyevinn OSC</h1>
       <div className="card">
-        <Player src="https://eyevinnlab-devguide.minio-minio.auto.prod.osaas.io/devguide/VINN/67670fd6-b66c-4e50-b730-4758a1ea4e3b/index.m3u8"/>
+        <Player src="https://eyevinnlab-devguide.minio-minio.auto.prod.osaas.io/devguide/VINN/8f943546-e1f9-46ba-8162-87fd1344a02b/index.m3u8"/>
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
         </button>

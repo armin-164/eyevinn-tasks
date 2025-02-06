@@ -1,0 +1,15 @@
+{
+  "name": "vod",
+  "version": "1.0.0",
+  "description": "Stream videos with osc (eyevinn task)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "armin-164",
+  "license": "ISC",
+  "dependencies": {
+    "@osaas/client-core": "^0.15.1",
+    "@osaas/client-transcode": "^0.14.3"
+  }
+}
